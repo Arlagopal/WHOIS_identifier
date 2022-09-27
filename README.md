@@ -11,5 +11,5 @@ we can run this script file 'n' no of times, all the fetched details will be sav
 	- whois
 
 Script: usage: 
-	$ python3 whois_identifier.py -d eccouncil.org
+	``` $ python3 whois_identifier.py -d example.com ```
 	
